@@ -111,7 +111,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 Desenvolvido com 💜 para organização pessoal e bem-estar.
 
-## 🙏 Agradecimentos
+## 🙏 Detalhes
 
 - Ícones por Emoji
 - Inspirado na necessidade de equilibrar vida pessoal e profissional
